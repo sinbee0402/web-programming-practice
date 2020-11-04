@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+#Business{
+    background-image: url(../imgs/Business_1.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
