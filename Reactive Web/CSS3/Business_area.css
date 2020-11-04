@@ -60,3 +60,14 @@ main p{
     font-weight: 550;
     color: #495057;
 }
+
+main img{
+    width: 35%;
+    height: 15%;
+    margin-top: 0;
+
+}
+
+.flex{
+    display: flex;
+}
