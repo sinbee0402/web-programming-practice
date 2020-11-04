@@ -55,3 +55,8 @@ main{
     margin-top: 3%;
     padding: 35px;
 }
+
+main p{
+    font-weight: 550;
+    color: #495057;
+}
