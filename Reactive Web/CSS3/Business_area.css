@@ -12,3 +12,16 @@ html, body{
     padding: 0;
     box-sizing: border-box;
 }
+
+header{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    height: 80px;
+}
+
+h1 img{
+    margin-left: 15%;
+    width: 60%;
+    height: auto;
+}
