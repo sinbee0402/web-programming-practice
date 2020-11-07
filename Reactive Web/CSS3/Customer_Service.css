@@ -69,3 +69,7 @@ main{
     vertical-align: middle;
 }
 
+main p{
+    margin-left: 14%;
+    margin-right: 14%;
+}
