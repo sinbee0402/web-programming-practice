@@ -69,6 +69,10 @@ main{
     vertical-align: middle;
 }
 
+.first_part h2{
+    margin-top: 0;
+}
+
 .first_part p{
     margin-left: 14%;
     margin-right: 14%;
