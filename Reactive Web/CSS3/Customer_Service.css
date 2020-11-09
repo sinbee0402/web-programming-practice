@@ -78,3 +78,16 @@ main{
     margin-right: 14%;
 }
 
+#one{
+    display: flex;
+}
+#two{
+    display: flex;
+}
+#three{
+    display: flex;
+}
+
+.second_part input{
+    margin-left: 10%;
+}
