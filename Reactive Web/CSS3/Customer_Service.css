@@ -78,16 +78,10 @@ main{
     margin-right: 14%;
 }
 
-#one{
+.input_form{
     display: flex;
 }
-#two{
-    display: flex;
-}
-#three{
-    display: flex;
+.input_form label{
+    width: 150px;
 }
 
-.second_part input{
-    margin-left: 10%;
-}
