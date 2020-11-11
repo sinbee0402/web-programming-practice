@@ -92,3 +92,14 @@ main{
     width: 35%;
     height: 30px;
 }
+
+.class_content{
+    width: 50%;
+    height: 230px;
+}
+
+.send_button input{
+    width: 15%;
+    height: 50px;
+    margin-left: 13%;
+}
