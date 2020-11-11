@@ -80,8 +80,11 @@ main{
 
 .input_form{
     display: flex;
+    margin-bottom: 5px;
 }
+
 .input_form label{
-    width: 150px;
+    width: 130px;
 }
+
 
