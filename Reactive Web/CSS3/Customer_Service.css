@@ -96,6 +96,7 @@ main{
 .class_content{
     width: 50%;
     height: 230px;
+    margin-top: 10px;
 }
 
 .send_button input{
