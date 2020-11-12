@@ -1,9 +1,9 @@
 # web-programming-practice
-##Web Programming Exercise Page
+## Web Programming Exercise Page
 
 ------------
 
-##웹 프로그래밍 연습용 페이지
+## 웹 프로그래밍 연습용 페이지
 
 ------------
 
