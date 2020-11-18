@@ -51,7 +51,6 @@ li{
 
 main .Slideshow_Container{
     width: 300vw;
-    transition: 0.5s;
 }
 
 main .Slide_fade{
