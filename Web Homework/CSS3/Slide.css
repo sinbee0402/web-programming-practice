@@ -49,7 +49,18 @@ li{
     padding: 20px;
 }
 
+main .Slideshow_Container{
+    width: 300vw;
+}
 
+main .Slide_fade{
+    width: 100vw;
+    float: left;
+}
+
+main .Slide_fade img{
+    width: 100%;
+}
 
 footer{
     background-color: black;
