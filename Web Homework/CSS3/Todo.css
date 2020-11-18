@@ -1,0 +1,99 @@
+@charset "utf-8";
+
+#Todo{
+    background-image: url(../images/Calendar.jpg);
+    background-size: cover;
+    background-position: center;
+    background-position-y: top;
+    min-height: 100vh;
+}
+
+html, body{
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    height: 90px;
+}
+
+h1 img{
+    margin-top: 0;
+    margin-left: 80%;
+    width: auto;
+    height: 55px;
+}
+
+nav{
+    margin-right: 12%;
+}
+
+nav ul{
+    list-style: none;
+    margin-top: 8%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+li{
+    display: inline;
+    font-size: 150%;
+    padding: 20px;
+}
+
+main{
+    margin: 15%;
+    margin-top: 2%;
+    margin-bottom: 10%;
+    padding: 20px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.9);
+    vertical-align: middle;
+}
+
+main h1{
+    margin-top: 2%;
+    color: #000000;
+    font-size: 3rem;
+    text-shadow: -2px -2px 1px #999999;
+}
+
+main li{
+    font-size: 3rem;
+    text-align: center;
+}
+
+main h4{
+    margin-top: 5%;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+
+main input{
+    width: 500px;
+    height: 30px;
+    margin-bottom: 0;
+    text-align: left;
+}
+
+footer{
+    background-color: black;
+    position: absolute;
+    width: 100%;
+    top: 95%;
+    bottom: 0;
+}
+
+footer p{
+    color: white;
+    text-align: center;
+}
