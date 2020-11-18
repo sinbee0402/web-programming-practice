@@ -28,15 +28,27 @@
             <br>
                 
             <div class="dot">
-              <button style="width: 40px; height: 20px;"></button> 
-              <button style="width: 40px; height: 20px;"></button>
-              <button style="width: 40px; height: 20px;"></button> 
+              <button onclick="button1()" style="width: 40px; height: 20px;"></button> 
+              <button onclick="button2()" style="width: 40px; height: 20px;"></button>
+              <button onclick="button3()" style="width: 40px; height: 20px;"></button> 
             </div>
         </main>
         <footer>
             <p>pastel-toned picture automatic slide</p>
         </footer>
-        <script src="Slide.js"></script>
     </div>
+    <script>
+        function button1(){
+            document.getElementById("img").src="../images/Slide1.jpg";
+        }
+
+        function button2(){
+            document.getElementById("img").src="../images/Slide3.jpg";
+        }
+
+        function button3(){
+            document.getElementById("img").src="../images/Slide4.jpg";
+        }
+    </script>
 </body>
 </html>
