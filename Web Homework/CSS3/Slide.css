@@ -1,10 +1,8 @@
 @charset "utf-8";
 
 #Slide{
-    background-image: url(../images/Slide2.gif);
-    background-size: cover;
+    background-color: white;
     background-position: center;
-    background-position-y: top;
     min-height: 100vh;
 }
 
@@ -49,17 +47,8 @@ li{
     padding: 20px;
 }
 
-main .Slideshow_Container{
-    width: 300vw;
-}
-
-main .Slide_fade{
-    width: 100vw;
-    float: left;
-}
-
 main .Slide_fade img{
-    width: 100%;
+   width: 100%;
 }
 
 main .dot{
