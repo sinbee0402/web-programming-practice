@@ -9,7 +9,7 @@
 }
 
 html, body{
-    /* overflow: hidden; */
+    overflow: hidden;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -51,6 +51,7 @@ li{
 
 main .Slideshow_Container{
     width: 300vw;
+    transition: 0.5s;
 }
 
 main .Slide_fade{
