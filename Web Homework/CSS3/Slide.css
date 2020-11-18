@@ -64,9 +64,8 @@ main .Slide_fade img{
 
 main .dot{
     position: absolute;
-    top: 80%;
-    left: 50%;
-    font-size: 5em;
+    top: 75%;
+    left: 46.5%;
 }
 
 footer{
