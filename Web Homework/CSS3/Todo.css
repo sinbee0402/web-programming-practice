@@ -9,7 +9,7 @@
 }
 
 html, body{
-    overflow: hidden;
+    /* overflow: hidden; */
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -52,7 +52,7 @@ li{
 main{
     margin: 15%;
     margin-top: 2%;
-    margin-bottom: 10%;
+    margin-bottom: 5%;
     padding: 20px;
     text-align: center;
     background-color: rgba(255, 255, 255, 0.9);
@@ -80,11 +80,28 @@ main h4{
     text-align: center;
 }
 
-main input{
+.Todo_form{
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.Input_button{
+    width: 100px;
+    height: 36px;
+    vertical-align: middle;
+    background-color: #6464CD;
+    color: white;
+}
+
+.Input_List{
     width: 500px;
     height: 30px;
+    margin-top: 0;
     margin-bottom: 0;
-    text-align: center;
+    vertical-align: middle;
 }
 
 footer{
